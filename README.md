@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanViceda
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Python and Web Development
+- 🌱 I’m currently learning Java and Web Development
 
 <!---
 DanViceda/DanViceda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
