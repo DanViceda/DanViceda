@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danniella Mae Viceda</h1>
 <h3 align="center">2nd Year Information Technology Student</h3>
 
-- 🌱 I’m currently learning **ReactJs and Cybersecurity**
+- 🌱 I’m currently learning **.NET & Web Development**
 
 - 📫 How to reach me **vicedadanniella@gmail.com**
 
