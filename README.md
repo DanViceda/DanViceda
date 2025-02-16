@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Danniella Mae Viceda</h1>
-<h3 align="center">A 3rd-year student who loves learning new skills and exploring Roblox game development. Always excited to grow, take on challenges, and turn ideas into projects.</h3>
+<h3 align="center">A 3rd-year student who loves learning new skills and exploring Web development. Always excited to grow, take on challenges, and turn ideas into projects.</h3>
 
-- 🔭 I’m currently working on **Simple RNG Roblox Game**
 
-- 🌱 I’m currently learning **Roblox Development & Web Development**
 
-- ⚡ Fun fact **I'm bad at picking colors for the website I'm making.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
