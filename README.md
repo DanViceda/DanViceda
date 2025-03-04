@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 3rd-year BSIT student | Still learning and growing in my career path.<br><br>🚀 Always open to learning new things and improving my skills.</p>
+<h3 align="left">🎓 3rd-year BSIT student | Still learning and growing in my career path.<br><br>🚀 Always open to learning new things and improving my skills.</h3>
 
 ###
 
