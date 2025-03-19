@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🎓 3rd-year BSIT student | Still learning and growing in my career path.<br><br>🚀 Always open to learning new things and improving my skills.</h3>
+<h3 align="left">🎓 3rd-year BSIT student | Exploring Web Development and Game Development.<br><br>🚀 Always open to learning new things and improving my skills.</h3>
 
 ###
 
